@@ -23,12 +23,11 @@ Write a program in java such that given a bill, it finds the net payable amount.
 What we care about:
 
 Required Activities
-• Object oriented programming approach, provide a high level UML class diagram of
-all the key classes in your solution. This can either be on paper or using a CASE tool
+
+• Object oriented programming approach, provide a high level UML class diagram of all the key classes in your solution. This can either be on paper or using a CASE tool
 • Code to be generic and simple
 • Leverage today's best coding practices
-• Clear README.md that explains how the code and the test can be run and how the
-coverage reports can be generated
+• Clear README.md that explains how the code and the test can be run and how the coverage reports can be generated
 
 
 ![1](https://user-images.githubusercontent.com/61588968/182868275-d62fcf3c-3e4d-4518-a866-0bbccc2a6a03.png)
